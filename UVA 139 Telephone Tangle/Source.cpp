@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-//#include <cstdio>
 #include <string>
 #include "Header.h"
 using namespace std;
